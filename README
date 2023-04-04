@@ -1,0 +1,6 @@
+Install python-telegram-bot with
+    pip install python-telegram-bot
+
+Install beautiful soup with
+    pip install beautifulsoup4
+
